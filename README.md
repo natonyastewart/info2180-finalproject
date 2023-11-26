@@ -2,8 +2,8 @@
 
 This is final project for: 
 
-Ranaldo Green 
-Nicholas Joiles 
-Natonya Stewart 
-Britney Hemmings 
-Jamila McGowan
+- Ranaldo Green 
+- Nicholas Joiles 
+- Natonya Stewart 
+- Britney Hemmings 
+- Jamila McGowan
