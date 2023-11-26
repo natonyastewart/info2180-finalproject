@@ -1,4 +1,4 @@
-# IFO2180 Final Project
+# INFO2180 Final Project
 
 This is final project for: 
 
