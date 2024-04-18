@@ -1,6 +1,6 @@
 # INFO2180 Final Project
 
-This is final project for: 
+Final project for: 
 
 - Ranaldo Green 
 - Nicholas Joiles 
